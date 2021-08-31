@@ -9,7 +9,7 @@ Official site for "Using Molecular Embeddings in QSAR modeling: Does it Make a D
 
 Please find all source code, trained models and datasets [in this link](https://csunseduar-my.sharepoint.com/:f:/g/personal/virginia_sabando_cs_uns_edu_ar/EjUkG4X2A31EgJ0Aj0EjveYBMcooO8mKIpQoHquoQtdUhw). 
 
-Link to [the arXiv preprint](https://arxiv.org/abs/2104.02604)
+In case you need access to a free preprint of our full paper, we have also hosted it in [ArXiV](https://arxiv.org/abs/2104.02604).
 
 ## How to cite? ##
 
