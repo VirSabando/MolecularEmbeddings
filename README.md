@@ -12,7 +12,7 @@ In case you need access to a free preprint of our full paper, we have also poste
 
 ## How to cite? ##
 
-If you find our paper useful in your research, please consider citing us:
+If you find our paper useful to your research, please consider citing us:
 
 ```bibtex
 @article{sabando2021Using,
