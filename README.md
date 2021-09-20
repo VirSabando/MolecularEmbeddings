@@ -1,7 +1,5 @@
 # Using Molecular Embeddings in QSAR modeling: Does it Make a Difference? #
 
-#### Published in Briefings in Bioinformatics (September 2021) - Link to full article: https://doi.org/10.1093/bib/bbab365 ####
-
 ![alt text](https://github.com/VirginiaSabando/UnMolEmb/blob/master/Molemb_teaser.jpeg)
 
 Official site for ["Using Molecular Embeddings in QSAR modeling: Does it Make a Difference?"](https://doi.org/10.1093/bib/bbab365), authored by María Virginia Sabando, Ignacio Ponzoni, Evangelos E. Milios and Axel J. Soto (Briefings in Bioinformatics, 2021)
