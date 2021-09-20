@@ -1,7 +1,7 @@
 # Using Molecular Embeddings in QSAR modeling: Does it Make a Difference? #
 
 #### Published in: Briefings in Bioinformatics (in press) ####
-#### DOI: https://doi.org/10.1093/bib/bbab365 ####
+#### DOI (link to full article): https://doi.org/10.1093/bib/bbab365 ####
 
 ![alt text](https://github.com/VirginiaSabando/UnMolEmb/blob/master/Molemb_teaser.jpeg)
 
