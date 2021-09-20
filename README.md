@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/VirginiaSabando/UnMolEmb/blob/master/Molemb_teaser.jpeg)
 
-Official site for "Using Molecular Embeddings in QSAR modeling: Does it Make a Difference?", authored by María Virginia Sabando, Ignacio Ponzoni, Evangelos E. Milios and Axel J. Soto (2021)
+Official site for ["Using Molecular Embeddings in QSAR modeling: Does it Make a Difference?"](https://doi.org/10.1093/bib/bbab365), authored by María Virginia Sabando, Ignacio Ponzoni, Evangelos E. Milios and Axel J. Soto (Briefings in Bioinformatics, 2021)
 
 Because GitHub repos are not supposed to be used as long-term storage for large files, all source code, trained models and datasets can be found [in this link](https://csunseduar-my.sharepoint.com/:f:/g/personal/virginia_sabando_cs_uns_edu_ar/EjUkG4X2A31EgJ0Aj0EjveYBMcooO8mKIpQoHquoQtdUhw). 
 
