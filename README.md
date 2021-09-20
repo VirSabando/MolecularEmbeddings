@@ -16,7 +16,7 @@ In case you need access to a free preprint of our full paper, we have also poste
 If you find our paper useful in your research, please consider citing us:
 
 ```bibtex
-@article{10.1093/bib/bbab365,
+@article{sabando2021Using,
     author = {Sabando, María Virginia and Ponzoni, Ignacio and Milios, Evangelos E and Soto, Axel J},
     title = "{Using molecular embeddings in QSAR modeling: does it make a difference?}",
     journal = {Briefings in Bioinformatics},
